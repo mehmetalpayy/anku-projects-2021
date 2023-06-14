@@ -1,4 +1,4 @@
-# Anku Projects 2021
+# Anku Projects 2022
 This repository contains various projects developed by Anku in 2021. The projects cover topics such as parsing tables, vending machine simulations, and data implementations.
 
 # Project Descriptions
