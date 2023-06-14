@@ -26,4 +26,4 @@ To get started with any of the projects in this repository, follow the instructi
 Contributions to this repository are welcome. If you would like to contribute bug fixes, enhancements, or new features, please follow the standard GitHub workflow of forking the repository, making your changes, and submitting a pull request. We appreciate your contributions.
 
 # Contact
-For any inquiries or questions, please feel free to contact with me at iletisimehmetalpay@gmail.com.
+For any inquiries or questions, please feel free to contact me at iletisimehmetalpay@gmail.com.
